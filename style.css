@@ -1,0 +1,40 @@
+body {
+	background-color: lightgrey;
+}
+
+img {
+	margin: 2px;
+	background-image: url(/home/julien/Documents/photo profil.jpg);
+	width: 250px;
+	height: 250px;
+	position: left;
+	background-position: top;
+}
+
+.profil {
+	margin: 5px;
+}
+
+.Formation {
+	text-align: center;
+}
+
+.Becode {
+	text-align: center;
+}
+
+.Experience {
+	text-align: center;
+}
+
+.compétence {
+	text-align: center;
+}
+
+.Langues {
+	text-align: center;
+}
+
+.Centres {
+	text-align: center;
+}
