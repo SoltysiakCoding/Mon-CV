@@ -1,5 +1,6 @@
 body {
 	background-color: lightgrey;
+	background-color: #FFF2E4;
 }
 
 img {
@@ -13,28 +14,35 @@ img {
 
 .profil {
 	margin: 5px;
+	background-color: #FAFAFA;
 }
 
 .Formation {
 	text-align: center;
+	background-color: #FAFAFA;
 }
 
 .Becode {
 	text-align: center;
+	background-color: #FAFAFA;
 }
 
 .Experience {
 	text-align: center;
+	background-color: #FAFAFA;
 }
 
 .compétence {
 	text-align: center;
+	background-color: #FAFAFA;
 }
 
 .Langues {
 	text-align: center;
+	background-color: #FAFAFA;
 }
 
 .Centres {
 	text-align: center;
+	background-color: #FAFAFA;
 }
